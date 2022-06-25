@@ -228,12 +228,3 @@ font-size:18px;
   font-size:18px;
 }
 
-@media(max-width:716px){
-  h2{
-      display:flex;
-  }
-.banner, .none,.product,.footer{
-      display:none;
-  }
-}
-
